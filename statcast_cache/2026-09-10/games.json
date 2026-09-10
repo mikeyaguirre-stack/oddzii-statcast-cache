@@ -1,0 +1,71 @@
+{
+  "games": [
+    {
+      "awayProbablePitcherId": "607259",
+      "awayTeamAbbr": "TB",
+      "gameDate": "2026-09-10T16:15:00Z",
+      "gamePk": "824872",
+      "homeProbablePitcherId": "527048",
+      "homeTeamAbbr": "ATL",
+      "season": 2026,
+      "slateDate": "2026-09-10",
+      "status": "Pre-Game"
+    },
+    {
+      "awayProbablePitcherId": "664299",
+      "awayTeamAbbr": "HOU",
+      "gameDate": "2026-09-10T17:05:00Z",
+      "gamePk": "823413",
+      "homeProbablePitcherId": "554430",
+      "homeTeamAbbr": "PHI",
+      "season": 2026,
+      "slateDate": "2026-09-10",
+      "status": "Pre-Game"
+    },
+    {
+      "awayProbablePitcherId": "594798",
+      "awayTeamAbbr": "TEX",
+      "gameDate": "2026-09-10T20:10:00Z",
+      "gamePk": "823088",
+      "homeProbablePitcherId": "669302",
+      "homeTeamAbbr": "SEA",
+      "season": 2026,
+      "slateDate": "2026-09-10",
+      "status": "Scheduled"
+    },
+    {
+      "awayProbablePitcherId": "663372",
+      "awayTeamAbbr": "COL",
+      "gameDate": "2026-09-10T23:05:00Z",
+      "gamePk": "823499",
+      "homeProbablePitcherId": "608331",
+      "homeTeamAbbr": "NYY",
+      "season": 2026,
+      "slateDate": "2026-09-10",
+      "status": "Scheduled"
+    },
+    {
+      "awayProbablePitcherId": "683003",
+      "awayTeamAbbr": "PIT",
+      "gameDate": "2026-09-10T23:40:00Z",
+      "gamePk": "824550",
+      "homeProbablePitcherId": "696146",
+      "homeTeamAbbr": "CWS",
+      "season": 2026,
+      "slateDate": "2026-09-10",
+      "status": "Scheduled"
+    }
+  ],
+  "metadata": {
+    "cacheSource": "backend/statcast_sync.py",
+    "createdAtEpochMs": 1789052314824,
+    "generatedAtUtc": "2026-09-10T14:58:34.824684+00:00",
+    "rowCount": 5,
+    "season": 2026,
+    "slateDate": "2026-09-10",
+    "source": "MLB Stats API schedule + pybaseball Statcast ingestion",
+    "statcastPrimary": "pybaseball",
+    "statcastSupplemental": "Baseball Savant CSV endpoints for unsupported raw fields",
+    "syncStatus": "loaded"
+  }
+}
