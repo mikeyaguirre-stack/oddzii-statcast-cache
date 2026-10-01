@@ -1,0 +1,27 @@
+{
+  "games": [
+    {
+      "awayProbablePitcherId": "605400",
+      "awayTeamAbbr": "PHI",
+      "gameDate": "2026-10-02T00:00:00Z",
+      "gamePk": "849844",
+      "homeProbablePitcherId": "678061",
+      "homeTeamAbbr": "ATL",
+      "season": 2026,
+      "slateDate": "2026-10-01",
+      "status": "Scheduled"
+    }
+  ],
+  "metadata": {
+    "cacheSource": "backend/statcast_sync.py",
+    "createdAtEpochMs": 1790875304512,
+    "generatedAtUtc": "2026-10-01T17:21:44.512037+00:00",
+    "rowCount": 1,
+    "season": 2026,
+    "slateDate": "2026-10-01",
+    "source": "MLB Stats API schedule + pybaseball Statcast ingestion",
+    "statcastPrimary": "pybaseball",
+    "statcastSupplemental": "Baseball Savant CSV endpoints for unsupported raw fields",
+    "syncStatus": "loaded"
+  }
+}
