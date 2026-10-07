@@ -1,0 +1,59 @@
+{
+  "games": [
+    {
+      "awayProbablePitcherId": "682982",
+      "awayTeamAbbr": "CLE",
+      "gameDate": "2026-10-07T20:00:00Z",
+      "gamePk": "849833",
+      "homeProbablePitcherId": "656794",
+      "homeTeamAbbr": "CWS",
+      "season": 2026,
+      "slateDate": "2026-10-07",
+      "status": "Pre-Game"
+    },
+    {
+      "awayProbablePitcherId": "607192",
+      "awayTeamAbbr": "LAD",
+      "gameDate": "2026-10-07T22:00:00Z",
+      "gamePk": "849822",
+      "homeProbablePitcherId": "641816",
+      "homeTeamAbbr": "ATL",
+      "season": 2026,
+      "slateDate": "2026-10-07",
+      "status": "Scheduled"
+    },
+    {
+      "awayProbablePitcherId": "607259",
+      "awayTeamAbbr": "TB",
+      "gameDate": "2026-10-08T00:00:00Z",
+      "gamePk": "849838",
+      "homeProbablePitcherId": "608331",
+      "homeTeamAbbr": "NYY",
+      "season": 2026,
+      "slateDate": "2026-10-07",
+      "status": "Scheduled"
+    },
+    {
+      "awayTeamAbbr": "MIL",
+      "gameDate": "2026-10-08T02:00:00Z",
+      "gamePk": "849827",
+      "homeProbablePitcherId": "621111",
+      "homeTeamAbbr": "SD",
+      "season": 2026,
+      "slateDate": "2026-10-07",
+      "status": "Scheduled"
+    }
+  ],
+  "metadata": {
+    "cacheSource": "backend/statcast_sync.py",
+    "createdAtEpochMs": 1791395313483,
+    "generatedAtUtc": "2026-10-07T17:48:33.483334+00:00",
+    "rowCount": 4,
+    "season": 2026,
+    "slateDate": "2026-10-07",
+    "source": "MLB Stats API schedule + pybaseball Statcast ingestion",
+    "statcastPrimary": "pybaseball",
+    "statcastSupplemental": "Baseball Savant CSV endpoints for unsupported raw fields",
+    "syncStatus": "loaded"
+  }
+}
