@@ -1,0 +1,15 @@
+{
+  "games": [],
+  "metadata": {
+    "cacheSource": "backend/statcast_sync.py",
+    "createdAtEpochMs": 1791566764274,
+    "generatedAtUtc": "2026-10-09T17:26:04.274146+00:00",
+    "rowCount": 0,
+    "season": 2026,
+    "slateDate": "2026-10-09",
+    "source": "MLB Stats API schedule + pybaseball Statcast ingestion",
+    "statcastPrimary": "pybaseball",
+    "statcastSupplemental": "Baseball Savant CSV endpoints for unsupported raw fields",
+    "syncStatus": "loaded"
+  }
+}
